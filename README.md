@@ -1,4 +1,4 @@
-this is the first commit from the original master
+This is the first commit from the original master
 
 Then Nerds Odd-e made a change.
 
@@ -10,6 +10,6 @@ A new change from nerds.
 This is a new start (which is altered by nerds)
 
 
-And nerds want more. (changed bby nerds)
+And nerds want more. (changed by nerds)
 
-And another change since new start.
+And another change since a new start.
